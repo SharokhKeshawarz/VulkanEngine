@@ -1,11 +1,2 @@
-﻿  imgui.cpp
-  imgui_demo.cpp
-  imgui_draw.cpp
-  imgui_impl_glfw.cpp
-  imgui_impl_vulkan.cpp
-  imgui_tables.cpp
-  imgui_widgets.cpp
-  main.cpp
-  stb_image.cpp
-  Generating Code...
-  VulkanEngine.vcxproj -> C:\Users\Utilisateur\OneDrive\Bureau\VulkanStuff\VulkanEngine\x64\Debug\VulkanEngine.exe
+﻿  main.cpp
+  VulkanEngine.vcxproj -> C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\x64\Debug\VulkanEngine.exe
