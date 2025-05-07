@@ -5,5 +5,5 @@ C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\External Libraries\imgui\imgui
 C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\External Libraries\imgui\imgui_impl_vulkan.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\imgui_impl_vulkan.obj
 C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\External Libraries\imgui\imgui_tables.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\imgui_tables.obj
 C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\External Libraries\imgui\imgui_widgets.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\imgui_widgets.obj
-C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\main.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\main.obj
-C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\stb_image.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\stb_image.obj
+C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\src\main.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\main.obj
+C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\src\stb_image.cpp;C:\Users\Utilisateur\OneDrive\Bureau\VulkanEngine\VulkanEngine\x64\Debug\stb_image.obj
